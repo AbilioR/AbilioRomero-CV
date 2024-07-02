@@ -14,15 +14,15 @@ darkmode: true
 
 # Social links
 github_username:  abilior
-linkedin_username: AbilioRomeroRamos
+linkedin_username: abilio-romero-ramos
 
 # Additional icon links
 additional_links:
 - title: Hablando en Data
-  icon: fa-brands fa-youtube
+  icon: <i class="fa-brands fa-youtube"></i>
   url: https://www.youtube.com/channel/UCoDZO0dHV8WKao3zjnfNzIQ
 - title: Whats in AI
-  icon: fa-regular fa-newspaper
+  icon: <i class="fa-regular fa-newspaper"></i>
   url: https://wiai.substack.com/
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
