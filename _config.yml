@@ -39,17 +39,13 @@ additional_links:
 about_profile_image: images/profile_image.jpg
 about_content: | # this will include new lines to allow paragraphs
   Taking advantage of the power of the enormous amount of data available today to analyze problems and make the best decisions is what drives me to continue learning.
+  
   Co-Author of [<mark>What's in AI</mark>](https://wiai.substack.com/), your weekly dose of AI news.
+  
   Data Science disclosure at [<mark>Hablando en Data</mark>](https://www.youtube.com/channel/UCoDZO0dHV8WKao3zjnfNzIQ)
   
   Lover of challenges, both sporting and professional. Discovering my limits.
 
-
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
-    - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
   - title: Projects # Title for the section
