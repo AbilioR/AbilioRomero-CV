@@ -6,7 +6,7 @@ version: 2
 
 # Personal info
 name: Abilio Romero Ramos
-title: Senior Manager Data Scientist
+title: Senior Manager Data Scientist | Machine learning Lecturer
 email: abilio.romeror@gmail.com
 
 # Dark Mode (true/false/never)
@@ -51,7 +51,7 @@ content:
    - title: Experience
     layout: list
     content:
-      - layout: right
+      - layout: left
         title: Caixabank Advanced Business Analytics
         sub_title: Senior Manager Data Scientist
         caption: August 2019 - present
