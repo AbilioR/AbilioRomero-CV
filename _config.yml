@@ -8,10 +8,6 @@ version: 2
 name: Abilio Romero Ramos
 title: Senior Manager Data Scientist
 email: abilio.romeror@gmail.com
-phone: Your phone number (optional)
-# phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
-# website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: true
